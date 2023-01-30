@@ -1,16 +1,25 @@
 # zigy
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.Clone the repository from GitHub:
+```
+git clone https://github.com/appteam-nith/Nimbus2k23_frontend.git
+```
+2.Navigate to the project's root directory:
+```
+cd zigy
+```
+3.Install dependencies:
+```
+flutter pub get
+```
+4.Check for Flutter setup and connected devices:
+```
+flutter doctor
+```
+5.Run the app:
+```
+flutter run
+```
